@@ -1,0 +1,12 @@
+{
+    "C_Cpp.intelliSenseEngine": "default",
+    "C_Cpp.autocomplete": "default",
+    "C_Cpp.clang_format_sortIncludes": true,
+    "clangd.fallbackFlags": [
+        "-I${workspaceFolder}\\Headers",
+        "-I${workspaceFolder}\\src",
+        "-ID:\\Apps\\mingw64\\include",
+        "-ID:\\Apps\\mingw64\\x86_64-w64-mingw32\\include",
+        "-ID:\\Apps\\mingw64\\x86_64-w64-mingw32\\13.2.0\\include\\c++",
+    ],
+}
